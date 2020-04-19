@@ -6,6 +6,12 @@
 
 #### Estudio y repaso de c
 
+**Lo que repase** Jamas fui enteramente bueno con c asi que comence desde 0 practicamente con un hola mundo.
+
+**Lo que aprendi** Se puede decir que volvi a entender todo lo basico desde como hacer sumas, multiplicaciones, etc, etc.
+
+**Lo que se me hizo complicado** mencione con anterioridad lo complicado que es para mi c (No me maten) y lo lento que soy aprendiendo (no es la formula del exito)
+
 
 
 
