@@ -13,9 +13,9 @@
 **Lo que se me hizo complicado**: mencione con anterioridad lo complicado que es para mi c (No me maten) y lo lento que soy aprendiendo (no es la formula del exito)
 
 **Links a mis ejercicios**
-https://onlinegdb.com/Sykc1FK_L
-https://onlinegdb.com/ryCmXtKOI
-https://onlinegdb.com/HJBuQYKd8
+**1**https://onlinegdb.com/Sykc1FK_L
+**2**https://onlinegdb.com/ryCmXtKOI
+**3**https://onlinegdb.com/HJBuQYKd8
 
 
 
