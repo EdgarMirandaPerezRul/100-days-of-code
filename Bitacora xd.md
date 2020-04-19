@@ -29,6 +29,12 @@
 **1** https://onlinegdb.com/B1PiHYFuI
 **2** https://onlinegdb.com/Bk8fIKtdU
 
-
+### Dia3: 27 de marzo del 2020
+#### Repaso de c
+**Lo que aprendi** Probablemente es el dia menos eficiente que tuve repase lo que vendria siendo los apuntadores.
+**Lo que se me hizo complicado** Enserio hace falta decirlo? Todavia no entiendo de que me sirven los apuntadores 
+### Dia4: 28 de marzo del 2020
+### Dia5: 29 de marzo del 2020
+### Dia6: 30 de marzo del 2020
 
 
