@@ -59,7 +59,7 @@ https://onlinegdb.com/rJlLNh5dL
 https://onlinegdb.com/BkKm9ncu8
 
 ### Dia6: 30 de marzo del 2020
-#### prendiendo HTML
+#### aprendiendo HTML
 **Lo que aprendi** Empeze con un poco de html lo basico hacer los heads,bodys,titles, cambiar el color de las letras entre otras cosas.
 
 **Lo que se me hizo complicado** Pues creo que nada por lo mientras html esta sencillo (ya se que no es un lenguaje xd).
