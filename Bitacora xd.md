@@ -32,8 +32,21 @@
 ### Dia3: 27 de marzo del 2020
 #### Repaso de c
 **Lo que aprendi** Probablemente es el dia menos eficiente que tuve repase lo que vendria siendo los apuntadores.
+
 **Lo que se me hizo complicado** Enserio hace falta decirlo? Todavia no entiendo de que me sirven los apuntadores 
+
+**Link a mi ejercicio**
+https://onlinegdb.com/Bki5fh5OU
+
 ### Dia4: 28 de marzo del 2020
+#### Repaso de c  (ups talvez me adelante a los punteros)
+**Lo que aprendi** bueno estuve viendo lo de los gets ya que no pude con los punteros xd.
+
+**Lo que se me hizo complicado** practicamente nada jsjsjsjs.
+
+**Link a  mi ejercicio**
+https://onlinegdb.com/rJlLNh5dL
+
 ### Dia5: 29 de marzo del 2020
 ### Dia6: 30 de marzo del 2020
 
