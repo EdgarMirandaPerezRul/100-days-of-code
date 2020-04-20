@@ -40,6 +40,7 @@ https://onlinegdb.com/Bki5fh5OU
 
 ### Dia4: 28 de marzo del 2020
 #### Repaso de c  (ups talvez me adelante a los punteros)
+
 **Lo que aprendi** bueno estuve viendo lo de los gets ya que no pude con los punteros xd.
 
 **Lo que se me hizo complicado** practicamente nada jsjsjsjs.
@@ -48,6 +49,22 @@ https://onlinegdb.com/Bki5fh5OU
 https://onlinegdb.com/rJlLNh5dL
 
 ### Dia5: 29 de marzo del 2020
+#### Repaso de bash
+
+**Lo que aprendi**  Me aburria de c asi que repase lo que sabia de bash e hice un minijuego.
+
+**Lo que se me hizo complicado** Bueno primero no me salian las preguntas que habia puesto en el txt y despues me tildaba muchos errores.
+
+**Mi ejercicio**
+https://onlinegdb.com/BkKm9ncu8
+
 ### Dia6: 30 de marzo del 2020
+#### prendiendo HTML
+**Lo que aprendi** Empeze con un poco de html lo basico hacer los heads,bodys,titles, cambiar el color de las letras entre otras cosas.
+
+**Lo que se me hizo complicado** Pues creo que nada por lo mientras html esta sencillo (ya se que no es un lenguaje xd).
+
+**Mi ejercicio**
+https://onlinegdb.com/rJPjlA9dL
 
 
